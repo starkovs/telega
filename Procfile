@@ -1,1 +1,0 @@
-web: java -jar target/HerokuJavaApp-1.0.jar
